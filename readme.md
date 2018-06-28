@@ -16,4 +16,4 @@ The notebook demonstrates the workflow while the scripts were run on Google Clou
 The top-performing model achieved a 64% accuracy rate on the test data. This suggests using word embeddings on SEC filings could be a useful way of uncovering stock movements.
 
 ## 5. Write-Ups
-The full writeup is here as a PDF file, and a summary blog post is available on [Medium](http://wwww.medium.com).
+The full writeup is here as a PDF file, and a summary blog post is available on [Medium](https://towardsdatascience.com/using-nlp-and-deep-learning-to-predict-the-stock-market-64eb9229e102).
